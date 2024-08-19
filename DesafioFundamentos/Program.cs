@@ -1,6 +1,7 @@
 ﻿using DesafioFundamentos.Models;
 
 // Coloca o encoding para UTF8 para exibir acentuação
+Console.Clear();
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 decimal precoInicial = 0;
